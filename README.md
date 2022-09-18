@@ -26,6 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - ReactJs
 - React Router
+- LocalStorage
 - Styled-components
 
 
